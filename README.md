@@ -1,13 +1,12 @@
 # Image-Processing-KBU
 
-Hello Dr.Caner, I hope you are fine.
+Hello Dr. Caner, I hope you are doing well.
 
 
 
-I divided the repository into 3 folder.
+ have divided the repository into three folders:
 
-    "Lesson Notes"         => Contains lesson notes
 
-    "Python Fundamentals"  => Contains the basics of Python
-
-    "Python-openCV"        => Contains OpenCV codes for image processing
+    Lesson Notes        => Contains lesson notes.
+    Python Fundamentals => Contains the basics of Python.
+    Python-openCV"      => Contains OpenCV code for image processing.
