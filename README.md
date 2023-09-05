@@ -11,3 +11,5 @@ Hello Dr. Caner, I hope you are doing well.
     Python Fundamentals  => Contains the basics of Python.
     Python-openCV"       => Contains OpenCV code for image processing.
     Image simple project => Contains a simple project that contains some popular codes used in image processing
+
+ISAAC ALABDI
